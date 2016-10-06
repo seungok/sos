@@ -3,6 +3,12 @@
 void main()
 {
 	printf("Hello world\n");
-	printf("Hi hi hi hi \n");
+	
+	char hi = "-d";	
+
+	for(int i=0;i<3;i++)
+{
+	printf("Hi \n");
+}
 
 }
